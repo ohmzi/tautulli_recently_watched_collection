@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "rating_key": "20504",
+    "year": 2001
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "rating_key": "20454",
+    "year": 2002
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "rating_key": "24418",
+    "year": 2004
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "rating_key": "4795",
+    "year": 2005
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "rating_key": "20503",
+    "year": 2007
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "rating_key": "20502",
+    "year": 2009
+  },
+  {
+    "title": "Fantastic Beasts and Where to Find Them",
+    "rating_key": "3699",
+    "year": 2016
+  },
+  {
+    "title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "rating_key": "20056",
+    "year": 2018
+  },
+  {
+    "title": "Fantastic Beasts: The Secrets of Dumbledore",
+    "rating_key": "20057",
+    "year": 2022
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "rating_key": "28641",
+    "year": 2005
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "rating_key": "12791",
+    "year": 2001
+  },
+  {
+    "title": "Percy Jackson & the Olympians: The Lightning Thief",
+    "rating_key": "28468",
+    "year": 2010
+  },
+  {
+    "title": "The Golden Compass",
+    "rating_key": "22249",
+    "year": 2007
+  }
+]

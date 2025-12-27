@@ -1,0 +1,34 @@
+plex:
+  url: "http://localhost:32400"
+  token: "PLEX_TOKEN"     # Replace with your Plex Token key
+  movie_library_name: "Movies"
+  delete_preference: "smallest_file"  # Options: largest_file, smallest_file, newest, oldest
+  preserve_quality: [] # Files with these keywords won't be deleted : 4K, 1080p
+
+openai:
+  api_key: "sk-proj-XXXXXXXXXXXXXXXXXXX"  # Replace with your OPENAI API key
+  recommendation_count: 50 # Replace with Number of Movies you want to be recommended and added in single run.
+
+
+radarr:
+  url: "http://localhost:7878"
+  api_key: "RADARR_API_KEY"     # Replace with your Radarr API key
+  root_folder: "/folder/to/you/Movies"
+  tag_name: "RADARR_TAG_NAME"
+
+tmdb:
+  api_key: "TMDB_API_KEY"  # Replace with your TMDB API key
+
+files:
+  points_file: "recommendation_points.json"
+  tmdb_cache_file: "tmdb_cache.json"
+
+overseerr:
+  url: "http://localhost:5055"  # Replace with your Overseerr URL
+  api_key: ""  # Add your Overseerr API key here
+
+scripts_run:
+  run_plex_duplicate_cleaner: true
+  run_radarr_monitor_confirm_plex: true
+  run_collection_refresher: false  # Change to true if you want to run Recently Watched Collection Refresher as part of main script. If false, run it independently via src/scripts/run_refresher.sh
+

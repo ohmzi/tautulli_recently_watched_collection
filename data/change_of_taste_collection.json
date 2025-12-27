@@ -1,0 +1,77 @@
+[
+  {
+    "title": "12 Angry Men",
+    "rating_key": "380",
+    "year": 1957
+  },
+  {
+    "title": "Manchester by the Sea",
+    "rating_key": "6976",
+    "year": 2016
+  },
+  {
+    "title": "Spotlight",
+    "rating_key": "10378",
+    "year": 2015
+  },
+  {
+    "title": "All the President's Men",
+    "rating_key": "89427",
+    "year": 1976
+  },
+  {
+    "title": "No Country for Old Men",
+    "rating_key": "7970",
+    "year": 2007
+  },
+  {
+    "title": "Zodiac",
+    "rating_key": "23031",
+    "year": 2007
+  },
+  {
+    "title": "The Hurt Locker",
+    "rating_key": "26960",
+    "year": 2008
+  },
+  {
+    "title": "Schindler's List",
+    "rating_key": "21396",
+    "year": 1993
+  },
+  {
+    "title": "Requiem for a Dream",
+    "rating_key": "9215",
+    "year": 2000
+  },
+  {
+    "title": "Blue Valentine",
+    "rating_key": "17709",
+    "year": 2010
+  },
+  {
+    "title": "Uncut Gems",
+    "rating_key": "108130",
+    "year": 2019
+  },
+  {
+    "title": "Her",
+    "rating_key": "20520",
+    "year": 2013
+  },
+  {
+    "title": "There Will Be Blood",
+    "rating_key": "22743",
+    "year": 2007
+  },
+  {
+    "title": "The Social Network",
+    "rating_key": "22618",
+    "year": 2010
+  },
+  {
+    "title": "Network",
+    "rating_key": "7833",
+    "year": 1976
+  }
+]
