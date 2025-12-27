@@ -1,6 +1,6 @@
 # Recently Watched Collection - Tautulli Automation
 
-**Version:** 2.1.0
+**Version:** 1.0.0
 
 **Table of Contents**  
 - [Overview](#overview)  
